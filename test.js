@@ -1,4 +1,4 @@
 function main()
 {
-  alert("hiya");
+  alert("hiya test");
 }
